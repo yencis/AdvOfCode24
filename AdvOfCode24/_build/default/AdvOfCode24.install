@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/AdvOfCode24/META"
+  "_build/install/default/lib/AdvOfCode24/dune-package"
+  "_build/install/default/lib/AdvOfCode24/opam"
+]
+bin: [
+  "_build/install/default/bin/AdvOfCode24"
+]

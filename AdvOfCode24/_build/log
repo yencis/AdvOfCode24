@@ -1,0 +1,16 @@
+# dune exec bin/main.exe 2 2 data/day02.txt
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Shared cache location: /home/yncs/.cache/dune/db
+# Workspace root: /home/yncs/AdvOfCode24/AdvOfCode24
+# Auto-detected concurrency: 16
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; instrument_with = []
+#  }
+$ /home/yncs/.opam/cs3110-2024fa/bin/ocamlc.opt -config > /tmp/dune_23a81d_output

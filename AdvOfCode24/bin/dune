@@ -1,0 +1,4 @@
+(executable
+ (public_name AdvOfCode24)
+ (name main)
+ (libraries AdvOfCode24))
