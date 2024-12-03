@@ -5,3 +5,6 @@ module Day01 = AdvOfCode24__Day01
 
 (** @canonical AdvOfCode24.Day02 *)
 module Day02 = AdvOfCode24__Day02
+
+(** @canonical AdvOfCode24.Day03 *)
+module Day03 = AdvOfCode24__Day03

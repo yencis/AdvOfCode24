@@ -1,4 +1,4 @@
-# dune exec bin/main.exe 2 2 data/day02.txt
+# dune exec bin/main.exe 3 1 data/day03.txt
 # OCAMLPARAM: unset
 # Shared cache: disabled
 # Shared cache location: /home/yncs/.cache/dune/db
@@ -13,4 +13,4 @@
 #  ; build_dir = In_build_dir "default"
 #  ; instrument_with = []
 #  }
-$ /home/yncs/.opam/cs3110-2024fa/bin/ocamlc.opt -config > /tmp/dune_23a81d_output
+$ /home/yncs/.opam/cs3110-2024fa/bin/ocamlc.opt -config > /tmp/dune_d53a4d_output
