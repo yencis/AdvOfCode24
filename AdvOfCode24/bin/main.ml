@@ -2,6 +2,7 @@ open AdvOfCode24.Day01
 open AdvOfCode24.Day02
 open AdvOfCode24.Day03
 open AdvOfCode24.Day04
+open AdvOfCode24.Day05
 
 let () = 
 let day = Sys.argv.(1) in
@@ -16,4 +17,6 @@ match day,part with
 | "3","2" -> let _ = day03p2 file in () 
 | "4","1" -> let _ = day04p1 file in ()
 | "4","2" -> let _ = day04p2 file in ()
+| "5","1" -> let _ = day05p1 file in ()
+| "5","2" -> let _ = day05p2 file in ()
 | _ -> ()
